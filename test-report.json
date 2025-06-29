@@ -1,0 +1,232 @@
+{
+  "timestamp": "2025-06-28T19:25:15.950Z",
+  "duration": "0.23s",
+  "summary": {
+    "total": 44,
+    "passed": 41,
+    "failed": 3,
+    "successRate": "93.2%"
+  },
+  "details": [
+    {
+      "name": "Frontend Layout Structure",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Home Page Structure",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Services Page Structure",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Booking Page Structure",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Payment Page Structure",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Admin Dashboard Structure",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Authentication API",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Services API",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Payment API",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Admin API Endpoints",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "PHP Backend Structure",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Database Classes",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Payment Manager",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Authentication System",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Middleware Components",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Database Migrations",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Authentication Tables",
+      "status": "FAILED",
+      "error": "Missing users table structure"
+    },
+    {
+      "name": "Payment Tables",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Email Validation",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Booking Validation",
+      "status": "FAILED",
+      "error": "Missing 24-hour advance booking validation"
+    },
+    {
+      "name": "Time Slot Management",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Navigation Component",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Error Boundary",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Loading Spinner",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Location Picker",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Monitoring Components",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Package.json Dependencies",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Next.js Configuration",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "TypeScript Configuration",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Tailwind Configuration",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Input Sanitization",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "CORS Configuration",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Rate Limiting",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Security Logging",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Image Optimization",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Caching Headers",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Code Splitting",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "User Registration Flow",
+      "status": "FAILED",
+      "error": "Missing registration form validation"
+    },
+    {
+      "name": "Booking Flow Integration",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Payment Flow Integration",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Admin Management Flow",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "README Documentation",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "API Documentation",
+      "status": "PASSED",
+      "error": null
+    },
+    {
+      "name": "Pending Upgrades Documentation",
+      "status": "PASSED",
+      "error": null
+    }
+  ]
+}
